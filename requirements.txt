@@ -1,4 +1,4 @@
-name: app_environment
+pip install --upgrade pip
 channels:
   - snowflake
 dependencies:
